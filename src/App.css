@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.scroller {
+  height: 80vh;
+
+  overflow-y: scroll;
+  scrollbar-color: rgba(230, 0, 18, 0.8) rgb(252, 165, 165);
+  scrollbar-gutter: stable;
+}
+
+.btn {
+  @apply border border-red-300 m-1 hover:bg-red-300 p-1 rounded;
+}
+
+.formatedDiv {
+  @apply border border-red-300 rounded;
+}
