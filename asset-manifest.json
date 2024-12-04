@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kmb-app/static/css/main.5dd49fc7.css",
+    "main.js": "/kmb-app/static/js/main.5197bf1b.js",
+    "index.html": "/kmb-app/index.html",
+    "main.5dd49fc7.css.map": "/kmb-app/static/css/main.5dd49fc7.css.map",
+    "main.5197bf1b.js.map": "/kmb-app/static/js/main.5197bf1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd49fc7.css",
+    "static/js/main.5197bf1b.js"
+  ]
+}
