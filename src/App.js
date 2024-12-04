@@ -149,7 +149,7 @@ function App() {
 
   return (
     <div className="App w-full h-screen flex flex-col items-center relative">
-      <div onClick={reset} className="w-24 mt-3 mb-3">
+      <div onClick={reset} className="w-20 mt-3 mb-3">
         <img
           src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/KowloonMotorBus.svg/1280px-KowloonMotorBus.svg.png"
           alt="logo"
