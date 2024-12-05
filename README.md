@@ -1,6 +1,6 @@
 # KMB App
 
-A mini project to practise fetch external api from KMB
+Build a simple web application that displays bus information, including routes and schedules, by fetching data from the KMB API.
 
 Try Now: https://lslwilsonli.github.io/kmb-app/
 
