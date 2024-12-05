@@ -1,4 +1,4 @@
-# KMB App
+# KMB Web App
 
 Build a simple web application that displays bus information, including routes and schedules, by fetching data from the KMB API.
 
